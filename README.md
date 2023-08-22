@@ -12,7 +12,7 @@ https://youtu.be/qIfGxDmRQIU
 
 ## Run commands one by one
 ```
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+>> git clone https://github.com/HH-Army/Facebook-BruteForce
 >> cd Facebook-BruteForce
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
@@ -29,8 +29,9 @@ https://youtu.be/qIfGxDmRQIU
 * Use 2F Authentication.
 * Make location based login(+browser based).
 
-## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
+
+<h1><a href ="https://t.me/Hack0Probot">🀄️Bot H.Army For Hack Tools</a></h1>
+<h1><a href ="https://t.me/HHackdos0">🎴H.Army community For Hackers</a></h1>
 
 ~~~
 Happy Hacking Day !
